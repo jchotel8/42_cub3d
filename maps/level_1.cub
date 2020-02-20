@@ -1,0 +1,18 @@
+R 1400 700
+NO textures/pink2.xpm
+SO textures/sky_copy.XPM
+WE textures/rainbow.XPM
+EA textures/side.xpm
+S textures/lama.xpm
+LI textures/mini_heart.xpm
+DO textures/tropical.XPM
+CO textures/planet_rose.XPM
+LU textures/jesus.XPM
+F 103,204,250
+C 103,204,250
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 0 0 0 C 0 0 0 0 0 0 0 0 1 1
+1 0 E 0 0 0 0 0 0 0 0 C 0 U 1
+1 0 0 0 0 0 C 0 0 0 0 0 0 1 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
